@@ -32,8 +32,8 @@ in a network of web pages based on the structure of the links between them.
     <p>    Visualize using bar chart to represent authority and hub scores.
 
 ### Program:
-## DEVELOPED BY :KAVYA K
-## REG NO :212222230065
+## DEVELOPED BY :S.Mohanraj
+## REG NO :212221230065
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
